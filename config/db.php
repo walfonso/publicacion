@@ -21,8 +21,5 @@ abstract class BaseDatos {
         
         return $resultado;
     }
-    
- 
-
 }
 ?>

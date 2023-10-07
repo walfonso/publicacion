@@ -1,6 +1,6 @@
 <?php
 require_once ('./config/conexion.php');
-$conexion = new Conexion(); // Establece la conexión a la base de datos
+$conexion = new Conexion(); 
 
 // Consulta SQL para obtener los datos de la tabla
 $sql = "SELECT * FROM noticias";

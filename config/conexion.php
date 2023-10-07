@@ -18,7 +18,7 @@ class Conexion extends BaseDatos {
     }
     
 
-    // Puedes agregar otros métodos específicos de esta clase si es necesario
+  
 }
 
 ?>
